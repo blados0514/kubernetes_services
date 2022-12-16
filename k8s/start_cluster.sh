@@ -1,0 +1,1 @@
+kind create cluster --name kubernetes-cluster --config kind-cluster.yaml
